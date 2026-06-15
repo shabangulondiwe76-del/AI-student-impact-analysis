@@ -130,14 +130,5 @@ AI-Student-Impact-Analysis/
  
 ### Connect With Me 
  
--	LinkedIn: [Add your LinkedIn URL] 
--	GitHub: [Add your GitHub URL] 
- 
- 
- 
-##   Future Improvements 
- 
--	Perform deeper statistical analysis using Python 
--	Create interactive Power BI dashboards 
--	Explore predictive models related to student performance 
--	Compare AI usage patterns across additional demographic groups 
+-	LinkedIn: [www.linkedin.com/in/londiwe-shabangu-a4214440b] 
+  
