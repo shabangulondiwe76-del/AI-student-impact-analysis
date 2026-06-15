@@ -126,7 +126,7 @@ AI-Student-Impact-Analysis/
  
 ##   Author 
  
-**Londiwe Nonhlanhla** Electrical Engineering Student | Aspiring Data Analyst 
+**Londiwe Shabangu** Electrical Engineering Student | Aspiring Data Analyst 
  
 ### Connect With Me 
  
